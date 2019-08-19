@@ -1,1 +1,1 @@
-alert("Welcome smart!");
+alert("Welcome To The Simple Ways Of Doing Math!");
