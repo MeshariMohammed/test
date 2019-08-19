@@ -1,3 +1,11 @@
+ /*Selector {
+ 	property: Value;
+ }*/
+
+* {
+	text-align: center;
+}
+
 	body{
 		background-color: powderblue;
 	}
