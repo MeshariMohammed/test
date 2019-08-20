@@ -1,4 +1,4 @@
-alert("Welcome smart!");
+// alert("Welcome smart!");
 
 
 var num1 = Math.floor(Math.random() * 30); 
